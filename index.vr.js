@@ -23,7 +23,7 @@ class React_VR_Project extends React.Component {
             layoutOrigin: [0.5, 0.5],
             transform: [{translate: [0, 0, -3]}],
           }}>
-          hello
+          Hello Elias
         </Text>
       </View>
     );
